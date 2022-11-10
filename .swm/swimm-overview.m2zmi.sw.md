@@ -11,6 +11,18 @@ Swimm is a documentation platform built especially for engineers.
 There is no better way to learn how Swimm takes documentation up to the next level,  
 other than start using it 💪
 
+
+
+
+```csharp
+function boo(){
+    let x = 0;
+}
+```
+
+
+
+
 Here is a 1.5 minutes video about Swimm...
 
 <br/>
@@ -24,14 +36,7 @@ Here is a 1.5 minutes video about Swimm...
 
 
 
-<br/>
-
-<!--BANNER-->
-::: INFO
-**#1 Enabling a completely new type of documentation**
-:::
-
-<br/>
+::: INFO **#1 Enabling a completely new type of documentation** :::
 
 It’s one of those “🐓 or the 🥚” debates.  
 Engineers don’t bother to add real code to documentation because everybody knows that documentation gets outdated 😩 - very quickly.
@@ -41,9 +46,6 @@ Engineers don’t bother to add real code to documentation because everybody kno
 [<--VIDEO-->](https://youtu.be/oyRMm9uxYwc)
 
 <br/>
-
-
-
 
 But with Swimm - that is not the case 🥳.  
 Live code snippets are interwoven in your docs enabling, for the first time to explain complex systems.
@@ -57,12 +59,7 @@ Live code snippets are interwoven in your docs enabling, for the first time to e
 
 <br/>
 
-<!--BANNER-->
-::: INFO
-#2 Find knowledge when you need it the most
-:::
-
-<br/>
+::: INFO #2 Find knowledge when you need it the most :::
 
 Documentation is useful only when you can find it quickly when you need it the most.
 
@@ -76,12 +73,7 @@ Documentation is useful only when you can find it quickly when you need it the m
 
 <br/>
 
-<!--BANNER-->
-::: INFO
-**#3 - Documentation is easier than ever to create**
-:::
-
-<br/>
+::: INFO **#3 - Documentation is easier than ever to create** :::
 
 Swimm offers many tools and content to start creating (or migrating) documentation
 
@@ -93,7 +85,6 @@ Swimm offers many tools and content to start creating (or migrating) documentati
     
 *   Auto-Generated Documentation
     
-
 
 
 
