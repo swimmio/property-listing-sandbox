@@ -14,15 +14,6 @@ other than start using it 💪
 
 
 
-```csharp
-function boo(){
-    let x = 0;
-}
-```
-
-
-
-
 Here is a 1.5 minutes video about Swimm...
 
 <br/>
@@ -85,7 +76,6 @@ Swimm offers many tools and content to start creating (or migrating) documentati
     
 *   Auto-Generated Documentation
     
-
 
 
 
