@@ -5,12 +5,12 @@ file_version: 1.0.2
 app_version: 0.9.9-0
 ---
 
-Hi 🙋🏻‍ Welcome to Swimm.  
-  
+Hi 🙋🏻‍ Welcome to Swimm.
+
 Swimm is a documentation platform built especially for engineers.  
 There is no better way to learn how Swimm takes documentation up to the next level,  
-other than start using it 💪  
-  
+other than start using it 💪
+
 Here is a 1.5 minutes video about Swimm...
 
 <br/>
@@ -18,9 +18,6 @@ Here is a 1.5 minutes video about Swimm...
 [<--VIDEO-->](https://www.youtube.com/watch?v=mNvIzGI5y4A&ab_channel=Swimm)
 
 <br/>
-
-
-
 
 ## Swimm is different from any other documentation tool you know
 
@@ -37,10 +34,22 @@ Here is a 1.5 minutes video about Swimm...
 <br/>
 
 It’s one of those “🐓 or the 🥚” debates.  
-Engineers don’t bother to add real code to documentation because everybody knows that documentation gets outdated 😩 - very quickly.  
-  
+Engineers don’t bother to add real code to documentation because everybody knows that documentation gets outdated 😩 - very quickly.
+
+<br/>
+
+[<--VIDEO-->](https://youtu.be/oyRMm9uxYwc)
+
+<br/>
+
+
+
+
 But with Swimm - that is not the case 🥳.  
 Live code snippets are interwoven in your docs enabling, for the first time to explain complex systems.
+
+
+
 
 <br/>
 
@@ -84,7 +93,6 @@ Swimm offers many tools and content to start creating (or migrating) documentati
     
 *   Auto-Generated Documentation
     
-
 
 
 
