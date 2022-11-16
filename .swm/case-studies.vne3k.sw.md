@@ -2,7 +2,7 @@
 id: vne3k
 name: Case Studies
 file_version: 1.0.2
-app_version: 0.9.9-0
+app_version: 0.9.9-6
 ---
 
 <!--BANNER-->
@@ -26,18 +26,39 @@ Swimm has made it easy for [Fulfilld](https://www.fulfilld.io/) team to both org
 
 
 
->   
 > “Swimm has been critical for ensuring internal docs around the ecosystem stay updated. As a 20-person company, no one wants to play the role of code archivist. Swimm automates that task to keep things running smoothly.”
 
 
 
 
+<br/>
+
+[<--VIDEO-->](https://youtu.be/OltGc0zo62Q)
+
+<br/>
 
 
 
 
+> “With all the tools around developmentCI/CD, it's kind of crazy to continue using confluence for code documentation. There is just nothing kind of bringing it into this generation of how developers are working”
+
+<br/>
+
+[<--VIDEO-->](https://youtu.be/tuyc3F55jjU)
+
+<br/>
 
 
+
+
+> "It didn't matter how man documents I wrote.. \[..\] it was going to be outta date.
+
+
+
+
+<br/>
+
+[<--VIDEO-->](https://youtu.be/reiEK9YuB7E)
 
 <br/>
 
