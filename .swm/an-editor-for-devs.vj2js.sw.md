@@ -17,9 +17,9 @@ Are you a slash command or markdown person? 🤔
 ::: TIP
 Try it! **Add your own markdown**
 :::
-[Type ### followed by a spacebar](#text-placeholder-id-33333)
 <br/>
-
+[Type ### followed by a spacebar](#text-placeholder-id-3333)
+<br/>
 
 
 
