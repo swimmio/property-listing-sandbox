@@ -2,31 +2,16 @@
 id: vj2js
 name: 🏁 An Editor for Devs
 file_version: 1.0.2
-app_version: 0.9.9-0
+app_version: 0.9.9-6
 file_blobs:
   src/app/listing-type/listing-type.component.ts: ffaf8263c0ddabf6572a31212f414e7fc206c856
   src/app/services/location.service.ts: 8232a35a8bdcbcd391397a72a8203922138d3d1a
 ---
 
-## Markdown editing
-
-Are you a slash command or markdown person? 🤔
-<br/>
-
 <!--BANNER-->
 ::: TIP
 Try it! **Add your own markdown**
 :::
-<br/>
-[Type ### followed by a spacebar](#text-placeholder-id-aaaa1) 
-And now try
-[Type `myFunction`](#text-placeholder-id-aaaa2)
-<br/>
-
-
-
-
-## Slash commands
 
 <br/>
 
@@ -44,7 +29,7 @@ Dev docs can’t be completed without some code references
 
 
 
-## Where it gets interesting... 👻
+## Where it gets interesting... 👻 (boo)
 
 <br/>
 
