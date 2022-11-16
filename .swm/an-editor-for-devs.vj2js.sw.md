@@ -18,7 +18,9 @@ Are you a slash command or markdown person? 🤔
 Try it! **Add your own markdown**
 :::
 <br/>
-[Type ### followed by a spacebar](#text-placeholder-id-3333)
+[Type ### followed by a spacebar](#text-placeholder-id-3333) 
+And now try
+[Type `myFunction`](#text-placeholder-id-1acee)
 <br/>
 
 
