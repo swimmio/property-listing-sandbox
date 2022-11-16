@@ -8,12 +8,15 @@ file_blobs:
   src/app/services/location.service.ts: 8232a35a8bdcbcd391397a72a8203922138d3d1a
 ---
 
-<!--BANNER-->
-::: TIP
-Try it! **Add your own markdown**
-:::
+## Add your own markdown
+Try it yourself! <br/>
+[Type /heading followed by an enter](#text-placeholder-id-wmcbi) This will become a title!<br/>
 
-<br/>
+Add a Smart Token!
+[Type `setLocations followed by an enter](#text-placeholder-id-wmcbj)<br/>
+Congratulations! 🥳 
+Youve created your first code coupled doc 💪.
+
 
 
 <!--BANNER-->
@@ -27,7 +30,6 @@ And now the same thing using our Slash Commands..
 
 Dev docs can’t be completed without some code references
 
-This is a placeholder: [first method](#text-placeholder-id-wmcbi)
 
 
 
