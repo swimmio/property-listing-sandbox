@@ -15,6 +15,8 @@ Try it! **Add your own markdown**
 
 <br/>
 
+[first method](#text-placeholder-id-wmcbi)
+
 <!--BANNER-->
 ::: TIP
 Try it! **Use slash commands**
@@ -29,7 +31,7 @@ Dev docs can’t be completed without some code references
 
 
 
-## Where it gets interesting... 👻 (boo)
+## Where it gets interesting... 👻 
 
 <br/>
 
