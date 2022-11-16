@@ -18,7 +18,6 @@ Try it! **Add your own markdown**
 boo
 boo
 [first method](#text-placeholder-id-wmcbi)
-<!-- TEMPLATE-swimm-snippet-placeholder -->
 boo
 boo
 
