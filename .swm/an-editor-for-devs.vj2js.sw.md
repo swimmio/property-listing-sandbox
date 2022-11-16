@@ -15,7 +15,13 @@ Try it! **Add your own markdown**
 
 <br/>
 
+boo
+boo
 [first method](#text-placeholder-id-wmcbi)
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+boo
+boo
+
 
 <!--BANNER-->
 ::: TIP
