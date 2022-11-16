@@ -14,10 +14,11 @@ file_blobs:
 [Type /heading followed by an enter](#text-placeholder-id-wmcbi) This will become a title!
 
 
-🏁 Add a Smart Token!
+🏁 Add a Smart Token! <br/>
 [Type `setLocations followed by an enter](#text-placeholder-id-aaaaa)
-
+<br/>
 [Type `setLocations followed by an enter](#text-placeholder-id-wmcbi)
+
 
 Congratulations! 🥳 <br/>
 Youve created your first code coupled doc 💪.
