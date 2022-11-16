@@ -10,14 +10,16 @@ file_blobs:
 
 ## Add your own markdown
 
-🏁 Try it 8888888 yourself!
+🏁 Try it yourself!
 [Type /heading followed by an enter](#text-placeholder-id-wmcbi) This will become a title!
 
 
 🏁 Add a Smart Token!
-[Type `setLocations followed by an enter](#text-placeholder-id-wmcbj)
+[Type `setLocations followed by an enter](#text-placeholder-id-aaaaa)
 
-Congratulations! 🥳 
+[Type `setLocations followed by an enter](#text-placeholder-id-wmcbi)
+
+Congratulations! 🥳 <br/>
 Youve created your first code coupled doc 💪.
 
 <br/>
