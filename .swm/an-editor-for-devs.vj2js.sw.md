@@ -15,11 +15,9 @@ Try it! **Add your own markdown**
 
 <br/>
 
-boo
-boo
-[first method](#text-placeholder-id-wmcbi)
-boo
-boo
+
+This is a placeholder: [first method](#text-placeholder-id-wmcbi)
+
 
 
 <!--BANNER-->
