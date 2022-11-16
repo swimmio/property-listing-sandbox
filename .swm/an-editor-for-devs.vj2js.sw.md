@@ -16,10 +16,6 @@ Try it! **Add your own markdown**
 <br/>
 
 
-This is a placeholder: [first method](#text-placeholder-id-wmcbi)
-
-
-
 <!--BANNER-->
 ::: TIP
 Try it! **Use slash commands**
@@ -31,6 +27,7 @@ And now the same thing using our Slash Commands..
 
 Dev docs can’t be completed without some code references
 
+This is a placeholder: [first method](#text-placeholder-id-wmcbi)
 
 
 
