@@ -15,8 +15,7 @@ file_blobs:
 
 
 🏁 Add a Smart Token! <br/>
-[Type `setLocations followed by an enter](#text-placeholder-id-aaaaa)
-<br/>
+
 [Type `setLocations followed by an enter](#text-placeholder-id-wmcbi)
 
 
