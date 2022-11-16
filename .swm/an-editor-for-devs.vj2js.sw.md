@@ -9,19 +9,20 @@ file_blobs:
 ---
 
 ## Add your own markdown
-Try it yourself! <br/>
+🏁 Try it yourself! <br/>
 [Type /heading followed by an enter](#text-placeholder-id-wmcbi) This will become a title!<br/>
 
-Add a Smart Token!
+🏁 Add a Smart Token!
 [Type `setLocations followed by an enter](#text-placeholder-id-wmcbj)<br/>
 Congratulations! 🥳 
 Youve created your first code coupled doc 💪.
 
-
+<br/>
 
 <!--BANNER-->
 ::: TIP
 Try it! **Use slash commands**
+Swimm provides a wide range of spacial commands for amazing docs
 :::
 
 <br/>
