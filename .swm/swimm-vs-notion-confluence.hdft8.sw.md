@@ -2,7 +2,7 @@
 id: hdft8
 name: 💪 Swimm Vs. Notion & Confluence
 file_version: 1.0.2
-app_version: 0.9.9-0
+app_version: 0.9.9-6
 ---
 
 <!--BANNER-->
@@ -16,27 +16,30 @@ Swimm is built for software documentation because code changes rapidly
 
 <br/>
 
-|**Feature set**               |**Swimm**               |Confluence          |Notion              |
-|------------------------------|------------------------|--------------------|--------------------|
-|Ticket management             |❌                       |✅                   |✅                   |
-|Manage general documents      |Basic                   |✅                   |✅                   |
-|Templates & Assistance        |IT related,  <br>Dynamic|General,  <br>Static|General,  <br>Static|
-|Maintain engineering documents|✅                       |❌                   |❌                   |
-|Find documents in the platform|✅                       |✅                   |✅                   |
-|Find documents in the IDE     |✅                       |❌                   |Basic               |
-|Write documents in the IDE    |✅                       |❌                   |❌                   |
-|Slack Integrations            |✅                       |❌                   |❌                   |
-|CI Integrations               |✅                       |❌                   |❌                   |
+|**Feature set**                 |**Swimm**                       |Confluence     |Notion         |
+|--------------------------------|--------------------------------|---------------|---------------|
+|Ticket Management               |❌                               |✅              |✅              |
+|Documentation Management        |Basic                           |✅              |✅              |
+|Templates                       |**IT**\-**related**, **Dynamic**|General, Static|General, Static|
+|Maintaining documents up to date|🏆                              |❌              |❌              |
+|Find documents (Web / App)      |✅                               |✅              |✅              |
+|Find documents in the IDE       |🏆                              |❌              |Basic          |
+|Create or Edit docs in the IDE  |🏆                              |❌              |❌              |
+|Slack Integrations              |✅                               |✅              |✅              |
+|CI Integrations                 |✅                               |❌              |❌              |
 
 <br/>
 
-## Comparing Use Cases
+
+
+
+## Use Cases
 
 <br/>
 
 |**Use Case**                          |**Swimm**|Confluence|Notion|
 |--------------------------------------|---------|----------|------|
-|General Org Documentation             |Basic    |✅         |✅     |
+|General Documentation                 |Basic    |✅         |✅     |
 |Client Facing (Publish)               |Manual   |✅         |✅     |
 |Continouse Documentation              |✅        |❌         |❌     |
 |Code Walkthroughs                     |✅        |❌         |❌     |
