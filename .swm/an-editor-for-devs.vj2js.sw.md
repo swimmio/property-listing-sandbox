@@ -11,14 +11,13 @@ file_blobs:
 ## Markdown editing
 
 Are you a slash command or markdown person? 🤔
-
 <br/>
 
 <!--BANNER-->
 ::: TIP
 Try it! **Add your own markdown**
 :::
-
+[Type ### followed by a spacebar](#text-placeholder-id-33333)
 <br/>
 
 
