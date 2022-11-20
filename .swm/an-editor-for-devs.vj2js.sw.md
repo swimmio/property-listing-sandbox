@@ -8,18 +8,20 @@ file_blobs:
   src/app/services/location.service.ts: 8232a35a8bdcbcd391397a72a8203922138d3d1a
 ---
 
-## Add your own markdown
+## Add your own Snippets
 
 🏁 Try it yourself!
-[Type /heading followed by an enter](#text-placeholder-id-wmcbi) This will become a title!
+
+Type "/snippet" below this line 👇:
+[Type /snippet](#text-placeholder-id-wmcbi)
 
 
-🏁 Add a Smart Token! <br/>
+🏁 Add a Smart Token! 
+Type below this line 👇: "`setLocations" followed by an enter
 
-[Type `setLocations followed by an enter](#text-placeholder-id-wmcbi)
 
 
-Congratulations! 🥳 <br/>
+Congratulations! 🥳 
 Youve created your first code coupled doc 💪.
 
 <br/>
