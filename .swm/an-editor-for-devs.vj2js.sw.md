@@ -38,7 +38,7 @@ Below are some examples for you to see how Swimm allows code coupled
 
 Type "/snippet" and hit enter below this line 👇:
 
-{Type /snippet}
+
 
 
 
