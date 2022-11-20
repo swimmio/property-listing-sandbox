@@ -2,10 +2,15 @@
 id: 6ukvv
 name: 👀 Live Snippets
 file_version: 1.0.2
-app_version: 0.9.9-0
+app_version: 0.9.9-6
+file_blobs:
+  src/index.html: 42d4d9a5b7ba74f5487cabbe47abf161d5ef097e
 ---
 
 When you use the “/snippet” command you embed real code from your repo into the Swimm Editor.
+
+
+
 
 ## The benefits of Swimm Live snippets
 
@@ -15,10 +20,46 @@ When you use the “/snippet” command you embed real code from your repo into 
 
 
 
+## 🏁Try it yourself!
+
+
+
+
+
+## Example for a live snippet
+
+<br/>
+
+_Our app begins from the app-root component._
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 src/index.html
+```html
+⬜ 19     </head>
+⬜ 20     
+🟩 21     <body>
+🟩 22       <app-root></app-root>
+🟩 23     </body>
+⬜ 24     
+⬜ 25     </html>
+```
 
 <br/>
 
 
+
+
+* * *
+
+
+
+
+## Live Snippets and the IDE
+
+The illustration below shows how you can find snippets in your **Swimm IDE extension**
+
+<br/>
+
+<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBcHJvcGVydHktbGlzdGluZy1zYW5kYm94JTNBJTNBc3dpbW1pbw%3D%3D%2Fcb9e1922-9321-4af8-b7b3-eb081e7b8ccd.png?alt=media&token=8b861d0d-6fe7-4e51-aa38-1a8f5d88e8be" style="width:'100%'"/></div>
 
 <br/>
 
