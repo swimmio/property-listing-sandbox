@@ -17,9 +17,6 @@ Below are some examples for you to see how Swimm allows code coupled
 
 <br/>
 
-
-
-
 ### **﹤﹥ Code Snippets**
 
 **Here is an example for a snippet:**
@@ -58,7 +55,6 @@ Type "/snippet" and hit enter below this line 👇:
 
 They are references from the code interwoven into docs.
 
-####   
 **🏁 Try it yourself!**
 
 Type below this line 👇: "\`setLocations" followed by an enter
