@@ -7,26 +7,11 @@ file_blobs:
   src/index.html: 42d4d9a5b7ba74f5487cabbe47abf161d5ef097e
 ---
 
-When you use the “/snippet” command you embed real code from your repo into the Swimm Editor.
+## What are live Snippets?
 
+Live snippets are pieces of code from your repository, embedded into your documents.
 
-
-
-## The benefits of Swimm Live snippets
-
-✅ Using parts of your code in your documents does most of the work for you.  
-✅ Swimm auto-sync algorithm will take care of tracking the code in the document
-
-
-
-
-## 🏁Try it yourself!
-
-
-
-
-
-## Example for a live snippet
+Example for a live snippet
 
 <br/>
 
@@ -48,6 +33,22 @@ _Our app begins from the app-root component._
 
 
 
+## The benefits of Swimm Live snippets
+
+✅ Using parts of your code in your documents does most of the work for you.  
+✅ Swimm auto-sync algorithm will take care of tracking the code in the document
+
+
+
+
+## 🏁Try it yourself!
+
+Type below 👇 "/snippet" followed by an Enter. Choose any short code section from any file.
+
+
+
+
+
 * * *
 
 
@@ -55,7 +56,7 @@ _Our app begins from the app-root component._
 
 ## Live Snippets and the IDE
 
-The illustration below shows how you can find snippets in your **Swimm IDE extension**
+The illustration below shows how you can find snippets in your **Swimm IDE extensio**
 
 <br/>
 
