@@ -8,7 +8,6 @@ file_blobs:
   src/app/services/location.service.ts: 8232a35a8bdcbcd391397a72a8203922138d3d1a
   src/app/listing-type/listing-type.component.ts: ffaf8263c0ddabf6572a31212f414e7fc206c856
 ---
-
 <!--BANNER-->
 ::: TIP
 **Hands-on demonstration!**  
