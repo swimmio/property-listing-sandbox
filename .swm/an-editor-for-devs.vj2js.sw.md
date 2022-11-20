@@ -4,68 +4,71 @@ name: 🏁 An Editor for Devs
 file_version: 1.0.2
 app_version: 0.9.9-6
 file_blobs:
-  src/app/listing-type/listing-type.component.ts: ffaf8263c0ddabf6572a31212f414e7fc206c856
+  src/main.ts: c7b673cf44b388e9989fe908b78d7d73cd2e1409
   src/app/services/location.service.ts: 8232a35a8bdcbcd391397a72a8203922138d3d1a
+  src/app/listing-type/listing-type.component.ts: ffaf8263c0ddabf6572a31212f414e7fc206c856
 ---
 
-## Add your own Snippets
-
-🏁 Try it yourself!
-
-Type "/snippet" below this line 👇:
-[Type /snippet](#text-placeholder-id-wmcbi)
-
-
-🏁 Add a Smart Token! 
-Type below this line 👇: "`setLocations" followed by an enter
-
-
-
-Congratulations! 🥳 
-Youve created your first code coupled doc 💪.
-
-<br/>
-
 <!--BANNER-->
 ::: TIP
-Try it! **Use slash commands**
-Swimm provides a wide range of spacial commands for amazing docs
+**Hands-on demonstration!**  
+Below are some examples for you to see how Swimm allows code coupled
 :::
 
 <br/>
 
-And now the same thing using our Slash Commands..
-
-Dev docs can’t be completed without some code references
 
 
 
+### **﹤﹥ Code Snippets**
 
-## Where it gets interesting... 👻 
+**Here is an example for a snippet:**
 
 <br/>
 
-<!--BANNER-->
-::: TIP
-Try it! **Add a live code snippet from our Sandbox project**
-:::
+
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 src/main.ts
+```typescript
+🟩 7      if (environment.production) {
+🟩 8        enableProdMode();
+🟩 9      }
+```
 
 <br/>
 
-Codeblocks are nice for syntax highlighting.  
-The problem 😩 is that when the real code changes, the codeblocks may become obsulete.  
-Let’s try something else...
+**🏁 Try it yourself!**
 
-You were asked to:
+Type "/snippet" and hit enter below this line 👇:
 
-*   Choose a file
-    
-*   Select a section from the code
-    
-*   Hit enter
-    
+{Type /snippet}
 
-Your Code snippet should look something like this (below is just an image)
+
+
+
+* * *
+
+
+
+
+### **🧠 Smart Tokens!**
+
+**Here is an example of a token:** `setLocations`[<sup id="1fEWwY">↓</sup>](#f-1fEWwY).
+
+They are references from the code interwoven into docs.
+
+####   
+**🏁 Try it yourself!**
+
+Type below this line 👇: "\`setLocations" followed by an enter
+
+
+
+
+Congratulations! 🥳 You've created your first code-coupled doc 💪.
+
+* * *
 
 
 
@@ -74,12 +77,12 @@ Your Code snippet should look something like this (below is just an image)
 
 <br/>
 
-|Editor features.|<br>                                                                                                                                                                                                                                                                                          |
-|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Mermaid diagrams|Add charts, graphs, and diagrams using the Mermaid - a diagram framework for markdown.  <br>Diagrams can be coupled with references to your code.  <br>As such - we will **keep them up to date ✅** for you                                                                                   |
-|Smart Text      |Smart Text tokens are references such as `categoryService`[<sup id="Z112VGU">↓</sup>](#f-Z112VGU) or the `setLocations`[<sup id="1fEWwY">↓</sup>](#f-1fEWwY) function.  <br>A live reference you want to describe in your documents.  <br>As such - we will **keep them up to date ✅** for you|
-|Youtube Videos  |Embed tutorials, lectures, and meetings in your docs                                                                                                                                                                                                                                          |
-|Smart Path      |Smart Paths are references such as `📄 src`or `📄 package.json` to **files** or **folders**  <br>in your code that you want to describe in your documents.  <br>As such - we will **keep them up to date ✅** for you                                                                          |
+|Editor features                     |When to use?                                                                                                                                                                                                                                                                                  |
+|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|**"/mermaid"**  <br>Mermaid diagrams|Add charts, graphs, and diagrams using the Mermaid - a diagram framework for markdown.  <br>Diagrams can be coupled with references to your code.  <br>As such - we will **keep them up to date ✅** for you                                                                                   |
+|**"/doc"**  <br>Link other docs     |Smart Text tokens are references such as `categoryService`[<sup id="Z112VGU">↓</sup>](#f-Z112VGU) or the `setLocations`[<sup id="1fEWwY">↓</sup>](#f-1fEWwY) function.  <br>A live reference you want to describe in your documents.  <br>As such - we will **keep them up to date ✅** for you|
+|**"/youtube"**                      |Embed Youtube Videos  <br>Embed tutorials, lectures, and meetings in your docs                                                                                                                                                                                                                |
+|**"/path"**                         |Smart Paths are references such as `📄 src`or `📄 package.json` to **files** or **folders**  <br>in your code that you want to describe in your documents.  <br>As such - we will **keep them up to date ✅** for you                                                                          |
 
 <br/>
 
