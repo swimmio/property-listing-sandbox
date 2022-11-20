@@ -33,9 +33,15 @@ The right-hand side is after the code was changed
 
 
 
+In this example, Angular 12 has been used but the code changed.
+
+And now React is used.
+
+This is a **Radical** change in the package JSON file.
+
 <br/>
 
-Setting up Angular `12.2.0`[<sup id="hykT2">↓</sup>](#f-hykT2)
+Setting up `angular`[<sup id="2wUO4f">↓</sup>](#f-2wUO4f): `12.2.0`[<sup id="hykT2">↓</sup>](#f-hykT2)
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 package.json
 ```json
@@ -59,6 +65,11 @@ Setting up Angular `12.2.0`[<sup id="hykT2">↓</sup>](#f-hykT2)
 ### Swimm Note
 
 <span id="f-hykT2">12.2.0</span>[^](#hykT2) - "package.json" L16
+```json
+    "@angular/core": "~12.2.0",
+```
+
+<span id="f-2wUO4f">angular</span>[^](#2wUO4f) - "package.json" L16
 ```json
     "@angular/core": "~12.2.0",
 ```
