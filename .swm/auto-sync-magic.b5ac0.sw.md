@@ -4,17 +4,13 @@ name: "🦄 Auto-Sync Magic "
 file_version: 1.0.2
 app_version: 0.9.9-6
 file_blobs:
+  angular.json: 94438843ffa697c793c39a4d67e74068f8aba4db
   package.json: f5948a8527cc15ed3fcb0948ec179658b704e346
 ---
 
 ## What happens when your code changes?
 
 When your code changes, your documentation needs to be updated.
-
-
-
-
-## Two levels of changes
 
 <br/>
 
@@ -25,19 +21,50 @@ When your code changes, your documentation needs to be updated.
 
 <br/>
 
+
+
+
 ## Try it yourself!
 
-The left side is before the code was changed,  
-The right-hand side is after the code was changed
+### Minor Change
+
+The code below has changed **only in values.**  
+Swimm detects it and offers you to **accept the fix ✅.**  
+Accept the "fix" below 👇.  
+  
+E.g: "Our Angular setup is set for `strict`[<sup id="1LbHwS">↓</sup>](#f-1LbHwS)mode under."
+
+<br/>
+
+The value of `strict`[<sup id="1LbHwS">↓</sup>](#f-1LbHwS)mode is set to `true`[<sup id="lFHBX">↓</sup>](#f-lFHBX)
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 angular.json
+```json
+⬜ 4        "newProjectRoot": "projects",
+⬜ 5        "projects": {
+⬜ 6          "property-listing": {
+🟩 7            "projectType": "application",
+🟩 8            "schematics": {
+🟩 9              "@schematics/angular:application": {
+🟩 10               "strict": true
+🟩 11             }
+🟩 12           },
+🟩 13           "root": "",
+⬜ 14           "sourceRoot": "src",
+⬜ 15           "prefix": "app",
+⬜ 16           "architect": {
+```
+
+<br/>
 
 
 
 
-In this example, Angular 12 has been used but the code changed.
+### Major Change
 
-And now React is used.
-
-This is a **Radical** change in the package JSON file.
+In this example, multiple lines have been deleted.  
+This is a **Radical** change.  
+**Click on "Reselect" to fix this snippet** 👇. Note that the **path** of this file has changed as well `📄 package.json`
 
 <br/>
 
@@ -72,6 +99,16 @@ Setting up `angular`[<sup id="2wUO4f">↓</sup>](#f-2wUO4f): `12.2.0`[<sup id="h
 <span id="f-2wUO4f">angular</span>[^](#2wUO4f) - "package.json" L16
 ```json
     "@angular/core": "~12.2.0",
+```
+
+<span id="f-1LbHwS">strict</span>[^](#1LbHwS) - "angular.json" L10
+```json
+          "strict": true
+```
+
+<span id="f-lFHBX">true</span>[^](#lFHBX) - "angular.json" L10
+```json
+          "strict": true
 ```
 
 <br/>
