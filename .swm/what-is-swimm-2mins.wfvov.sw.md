@@ -1,6 +1,6 @@
 ---
 id: wfvov
-name: 🙋🏻‍ Overview
+name: 🙋🏻‍ What is Swimm (2mins)
 file_version: 1.0.2
 app_version: 0.9.9-6
 ---
