@@ -6,12 +6,8 @@ import { CategoryService } from '../services/category.service';
 import { DataSharingService } from '../services/data-sharing.service';
 import { LocationService } from '../services/location.service';
 import { PropertyService } from '../services/property.service';
+import { PlBaseClass } from '../components/plBaseClass'
 
-@Component({
-  selector: 'app-listings',
-  templateUrl: './listings.component.html',
-  styleUrls: ['./listings.component.css']
-})
 export class ListingsComponent implements PlBaseClass {
 
   propName: string = '';
