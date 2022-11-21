@@ -21,18 +21,15 @@ When your code changes, your documentation needs to be updated.
 
 <br/>
 
-
-
-
 ## Try it yourself!
 
 ### Minor Change
 
 The code below has changed **only in values.**  
 Swimm detects it and offers you to **accept the fix ✅.**  
-Accept the "fix" below 👇.  
-  
-E.g: "Our Angular setup is set for `strict`[<sup id="1LbHwS">↓</sup>](#f-1LbHwS)mode under."
+Accept the "fix" below 👇.
+
+E.g: "Our Angular setup is set for `strict`[<sup id="1LbHwS">↓</sup>](#f-1LbHwS)mode under `📄 angular.json`"
 
 <br/>
 
@@ -56,9 +53,6 @@ The value of `strict`[<sup id="1LbHwS">↓</sup>](#f-1LbHwS)mode is set to `true
 ```
 
 <br/>
-
-
-
 
 ### Major Change
 
