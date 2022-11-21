@@ -21,4 +21,7 @@ export class ListingsComponent implements PlBaseClass {
       public route: ActivatedRoute,
       public router: Router) {
     }
+
+    abstract searchByName(searchForm: any) : any;
+     
 }
