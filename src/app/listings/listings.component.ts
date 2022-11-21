@@ -12,7 +12,7 @@ import { PropertyService } from '../services/property.service';
   templateUrl: './listings.component.html',
   styleUrls: ['./listings.component.css']
 })
-export class ListingsComponent implements OnInit {
+export class ListingsComponent implements PlBaseClass {
 
   propName: string = '';
   stars: string[]=[];
