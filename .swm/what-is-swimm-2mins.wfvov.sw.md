@@ -1,11 +1,11 @@
 ---
 id: wfvov
-name: 🙋🏻‍ What is Swimm (2mins)
+name: ▶️ What is Swimm (2mins)
 file_version: 1.0.2
 app_version: 0.9.9-6
 ---
 
-Hi, Welcome to Swimm.
+Hi, 🙋🏻‍ Welcome to Swimm.
 
 Swimm is a documentation platform built especially for engineers.  
 There is no better way to learn how Swimm takes documentation up to the next level,  
