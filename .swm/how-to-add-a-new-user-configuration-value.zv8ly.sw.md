@@ -9,15 +9,17 @@ app_version: 0.9.9-0
 
 [List reasons why configurability is important, or what it is used for](#text-placeholder-id-4b16)
 
+
 ## What is "[add an example configuration value](#text-placeholder-id-4065)"?
 
 [Describe an example configuration value, and some details on what it does](#text-placeholder-id-9c33)
 
 In this document we will see how to make this value configurable (instead of constant in the code).
 
+
 ## Definition Example
 
-We define our configuration values in [add a file or directory, use the "/path" command](#text-placeholder-id-47d1)
+We define our configuration values in ["/path"](#text-placeholder-id-47d1)
 
 <br/>
 
@@ -25,6 +27,7 @@ We define our configuration values in [add a file or directory, use the "/path" 
 Add a snippet of the declaration of the example configuration value
 
 <br/>
+
 
 ## Usage Example
 
@@ -36,6 +39,7 @@ Add a snippet of the declaration of the example configuration value
 An example showing how the new configuration value can be used by application code
 
 <br/>
+
 
 ## Updating an Existing Configuration Value
 
