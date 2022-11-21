@@ -1,6 +1,6 @@
 ---
 id: x6krc
-name: 🧐 When to use Swimm?
+name: 🧐 Swimm Use Cases
 file_version: 1.0.2
 app_version: 0.9.9-6
 ---
