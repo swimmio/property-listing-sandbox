@@ -2,15 +2,24 @@
 id: vnct9
 name: "#2 ☝️ Find it when you need it the most "
 file_version: 1.0.2
-app_version: 0.9.9-6
+app_version: 0.10.0-0
 ---
 
 ## Find knowledge when you need it the most
 
-Documentation is useful only when you can find it quickly when you need it the most.
+Documentation is useful only when you can find it quickly when you need it the most.  
+The documentation will show in your **VS Code** or **Jetbrains** IDEs.
 
-The documentation will show in your **VS Code** or **Jetbrains** IDEs
 
+
+
+<br/>
+
+<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBcHJvcGVydHktbGlzdGluZy1zYW5kYm94JTNBJTNBc3dpbW1pbw%3D%3D%2F5c1b2c4d-ae8c-4682-a4c8-da6137083659.png?alt=media&token=913979b0-cd69-44bb-9e63-0d01b0e86439" style="width:'50%'"/></div>
+
+<br/>
+
+  
 And with **CI automation** you can enforce and maintain documentation when code changes
 
 <br/>
