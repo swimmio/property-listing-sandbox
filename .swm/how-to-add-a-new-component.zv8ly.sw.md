@@ -2,7 +2,7 @@
 id: zv8ly
 name: ⚙️ How to Add A new Component
 file_version: 1.0.2
-app_version: 0.9.9-6
+app_version: 0.10.0-0
 file_blobs:
   src/app/components/plBaseClass.ts: 395a03686934560373561a3b4659a30bffdedea4
   src/app/listings/listings.component.ts: 8f8e8f939528a85995fb407471ddf494b79c3b60
@@ -10,10 +10,19 @@ file_blobs:
   src/app/listing-type/listing-type.component.ts: ffaf8263c0ddabf6572a31212f414e7fc206c856
 ---
 
+<!--BANNER-->
+::: TIP
+This is a real-world example document.  
+In our example - we're using the Property Listing repo to explain "How to add a new component" to the project  
+It has **Paragraphs**, Smart **Paths**, Smart **Tokens,** and Live **Snippets**
+:::
+
+<br/>
 
 
 
-## Why is This Important?
+
+## Why is this Important?
 
 Adding a new component is common and it involves touching multiple places in our code.
 
@@ -49,9 +58,6 @@ A listing Component is a property (A house, an apartment, a land..)
 ```
 
 <br/>
-
-
-
 
 **#2 Located in** `📄 src/app/components`
 
