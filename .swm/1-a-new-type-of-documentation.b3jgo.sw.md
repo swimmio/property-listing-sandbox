@@ -2,26 +2,31 @@
 id: b3jgo
 name: "#1 🥳 A new type of documentation"
 file_version: 1.0.2
-app_version: 0.9.9-6
+app_version: 0.10.0-0
 ---
 
-## **#1 Enabling a completely new type of documentation**
+## **Enabling a completely new type of documentation**
 
-Everybody knows that documentation gets outdated 😩 - very quickly.
-
-Engineers don’t bother to add real code to documentation - that is not a secret.
+Everybody knows that documentation **gets outdated 😩 - very quickly.** That is true.  
+Hence, engineers are reluctant about **adding real code** to documentation - that is not a secret.
 
 It’s one of those “🐓 or the 🥚” debates.
+
+
+
+
+<br/>
+
+<!--BANNER-->
+::: INFO
+With Swimm - that is no longer the case 🥳.  
+`Live code snippets` are **interwoven** in your docs enabling,  
+**for the first time** to explain complex systems.
+:::
 
 <br/>
 
 <div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBcHJvcGVydHktbGlzdGluZy1zYW5kYm94JTNBJTNBc3dpbW1pbw%3D%3D%2F41c9dd92-c09a-4407-944f-2c5fa8327e7e.png?alt=media&token=7edad359-58d6-46be-bc90-0050eeba0366" style="width:'100%'"/></div>
-
-<br/>
-
-But with Swimm - that is not the case 🥳.
-
-Live code snippets are **interwoven** in your docs enabling, **for the first time** to explain complex systems.
 
 <br/>
 
