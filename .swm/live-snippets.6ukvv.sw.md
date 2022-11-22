@@ -2,16 +2,16 @@
 id: 6ukvv
 name: 👀 Live Snippets
 file_version: 1.0.2
-app_version: 0.9.9-6
+app_version: 0.10.0-0
 file_blobs:
   src/index.html: 42d4d9a5b7ba74f5487cabbe47abf161d5ef097e
 ---
 
 ## What are live Snippets?
 
-Live snippets are pieces of code from your repository, embedded into your documents.
+**Live snippets are pieces of code from your repository, embedded into your documents.**
 
-Example for a live snippet
+Example for a live snippet,
 
 <br/>
 
@@ -43,20 +43,15 @@ _Our app begins from the app-root component._
 
 ## 🏁Try it yourself!
 
-Type below 👇 "/snippet" followed by an Enter. Choose any short code section from any file.
+Type below 👇👇👇 "/snippet" followed by an Enter.
 
-
-
-
-
-* * *
 
 
 
 
 ## Live Snippets and the IDE
 
-The illustration below shows how you can find snippets in your **Swimm IDE extensio**
+The illustration below shows how you can find snippets in your **Swimm IDE extension**
 
 <br/>
 
