@@ -10,8 +10,13 @@ app_version: 0.10.0-0
 *   With Swimm `Auto-Sync` you will be notified when docs are drifted from the code
     
 *   **Manually** accept updates or Create an **auto-approval** rule
-    
-*   **With Swimm, you don't need to worry about documentation becoming obsolete**
+
+<br/>
+
+<!--BANNER-->
+::: INFO
+**With Swimm, you don't need to worry about documentation becoming obsolete 💪**
+:::
 
 <br/>
 
