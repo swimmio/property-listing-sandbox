@@ -1,6 +1,6 @@
 ---
 id: zv8ly
-name: ⚙️ How to Add A new Component
+name: ⚙️ How To Add A New Component
 file_version: 1.0.2
 app_version: 0.10.0-0
 file_blobs:
@@ -18,9 +18,6 @@ It has **Paragraphs**, Smart **Paths**, Smart **Tokens,** and Live **Snippets**
 :::
 
 <br/>
-
-
-
 
 ## Why is this Important?
 
