@@ -1,21 +1,15 @@
 ---
 id: vne3k
-name: Case Studies
+name: 🧐 Case Studies
 file_version: 1.0.2
-app_version: 0.9.9-6
+app_version: 0.10.0-0
 ---
 
 <!--BANNER-->
 ::: INFO
-**Spending 55% Less Time Onboarding New Employees**
-:::
-
-<br/>
-
+**Spending 55% Less Time Onboarding New Employees**  
 Swimm has made it easy for [Fulfilld](https://www.fulfilld.io/) team to both organize and speed up onboarding while also ensuring that all documentation around the ecosystem always stays updated.
-
-
-
+:::
 
 <br/>
 
@@ -23,13 +17,10 @@ Swimm has made it easy for [Fulfilld](https://www.fulfilld.io/) team to both org
 
 <br/>
 
-
-
-
-> “Swimm has been critical for ensuring internal docs around the ecosystem stay updated. As a 20-person company, no one wants to play the role of code archivist. Swimm automates that task to keep things running smoothly.”
-
-
-
+<!--BANNER-->
+::: INFO
+“Swimm has been critical for ensuring internal docs around the ecosystem stay updated. As a 20-person company, no one wants to play the role of code archivist. Swimm automates that task to keep things running smoothly.”
+:::
 
 <br/>
 
@@ -37,10 +28,22 @@ Swimm has made it easy for [Fulfilld](https://www.fulfilld.io/) team to both org
 
 <br/>
 
+<!--BANNER-->
+::: INFO
+In Authomize we have tons of microservices.. integrations  
+Our goal is to encourage engineers to be independent.
+:::
 
+<br/>
 
+[<--VIDEO-->](https://youtu.be/MAqJL7aVnkk)
 
-> “With all the tools around developmentCI/CD, it's kind of crazy to continue using confluence for code documentation. There is just nothing kind of bringing it into this generation of how developers are working”
+<br/>
+
+<!--BANNER-->
+::: INFO
+“With all the tools around development CI/CD, it's kind of crazy to continue using confluence for code documentation. There is just nothing kind of bringing it into this generation of how developers are working”
+:::
 
 <br/>
 
@@ -48,13 +51,10 @@ Swimm has made it easy for [Fulfilld](https://www.fulfilld.io/) team to both org
 
 <br/>
 
-
-
-
-> "It didn't matter how man documents I wrote.. \[..\] it was going to be outta date.
-
-
-
+<!--BANNER-->
+::: INFO
+"It didn't matter how man documents I wrote.. \[..\] it was going to be outta date.
+:::
 
 <br/>
 
