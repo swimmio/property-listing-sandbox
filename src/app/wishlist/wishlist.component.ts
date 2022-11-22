@@ -7,7 +7,7 @@ import { DataSharingService } from '../services/data-sharing.service';
   templateUrl: './wishlist.component.html',
   styleUrls: ['./wishlist.component.css']
 })
-export class WishlistComponent implements OnInit {
+export class WishlistComponentNew implements OnInit {
 
   constructor(public dataSharing: DataSharingService, public auth: AuthService) { }
 
