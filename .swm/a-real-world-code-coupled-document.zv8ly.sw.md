@@ -1,6 +1,6 @@
 ---
 id: zv8ly
-name: ⚙️ How To Add A New Component
+name: A real-world code-coupled document
 file_version: 1.0.2
 app_version: 0.10.0-0
 file_blobs:
@@ -18,6 +18,19 @@ It has **Paragraphs**, Smart **Paths**, Smart **Tokens,** and Live **Snippets**
 :::
 
 <br/>
+
+
+
+
+* * *
+
+
+
+
+# ⚙️ How To Add A New Component
+
+
+
 
 ## Why is this Important?
 
