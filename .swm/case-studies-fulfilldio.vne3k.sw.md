@@ -1,6 +1,6 @@
 ---
 id: vne3k
-name: 🧐 Case Studies
+name: 🧐 Case Studies - Fulfilld.io
 file_version: 1.0.2
 app_version: 0.10.0-0
 ---
@@ -25,18 +25,6 @@ Swimm has made it easy for [Fulfilld](https://www.fulfilld.io/) team to both org
 <br/>
 
 [<--VIDEO-->](https://youtu.be/OltGc0zo62Q)
-
-<br/>
-
-<!--BANNER-->
-::: INFO
-In Authomize we have tons of microservices.. integrations  
-Our goal is to encourage engineers to be independent.
-:::
-
-<br/>
-
-[<--VIDEO-->](https://youtu.be/MAqJL7aVnkk)
 
 <br/>
 
