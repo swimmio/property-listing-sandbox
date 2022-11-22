@@ -2,16 +2,16 @@
 id: x5tly
 name: "#3 😌 Docs stay up to date "
 file_version: 1.0.2
-app_version: 0.9.9-6
+app_version: 0.10.0-0
 ---
 
-## Swimm docs stay up to date
+## Keep'em up to date
 
-*   With Swimm Auto-Sync you will be notified when docs are drifted from the code
+*   With Swimm `Auto-Sync` you will be notified when docs are drifted from the code
     
-*   You can decide if to manually accept updates or create an auto-approval rule
+*   **Manually** accept updates or Create an **auto-approval** rule
     
-*   **Bottom line - With Swimm, you don't need to worry about documentation becoming obsolete**
+*   **With Swimm, you don't need to worry about documentation becoming obsolete**
 
 <br/>
 
