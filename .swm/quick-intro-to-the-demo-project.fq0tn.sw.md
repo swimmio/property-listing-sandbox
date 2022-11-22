@@ -2,34 +2,33 @@
 id: fq0tn
 name: Quick intro to the Demo Project
 file_version: 1.0.2
-app_version: 0.9.9-6
+app_version: 0.10.0-0
 ---
 
-In this sandbox project we use the **Property Listing** repository.
+<!--BANNER-->
+::: TIP
+You can use this project's codebase to experience Swimm's capabilities
 
-It is a code for an online web application for property buyers and sellers.
+using "/snippet", "/path", backticks \` and so on.
+:::
 
-> #### You can use this project's code to experience Swimm's capabilities  
-> using "/snippet", "/path", backticks \` and so on.
+<br/>
 
 ## Application overview
 
-The following are the **functionalities** made available to the end user:
+In this sandbox project we use the **Property Listing** repository.
 
-*   **Signup and Login**.
+*   Signup and Login.
     
-*   **Window shopping of properties** for different cities.
+*   Window shopping of properties for different cities.
     
-*   **Search bar** for listing.
+*   Search bar for listing.
     
-*   **Listing properties** by location.
+*   Listing properties by location.
     
-*   **Adding/Removing a new property** to the Wishlist
+*   Adding/Removing a new property to the Wishlist
     
-*   **Placing the order**.
-    
-
-## Property Listing - UI
+*   Placing the order.
 
 <br/>
 
