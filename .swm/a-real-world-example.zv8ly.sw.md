@@ -1,6 +1,6 @@
 ---
 id: zv8ly
-name: A real-world code-coupled document
+name: A real-world Example
 file_version: 1.0.2
 app_version: 0.10.0-0
 file_blobs:
