@@ -1,29 +1,33 @@
 ---
 id: o0bvn
-name: "🤓 Smart Text "
+name: 🤓 Smart Text
 file_version: 1.0.2
-app_version: 0.9.9-6
+app_version: 0.10.0-0
 file_blobs:
   src/app/bookings/bookings.component.ts: a08c0b2d87c0844b9f3865a13b218a3f20e6b87b
-  src/app/services/data-sharing.service.ts: b5ea14998af105ffec87b5e236c0ccac6f7cf657
+  src/app/wishlist/wishlist.component.ts: 11b6e4a6aa6c9204e7b6d838eb42b6f0c4367814
 ---
 
-## What is Smart Text?
+## Smart text is either Tokens or Paths which are being tracked & synced.
 
-Smart text is either Tokens or Paths that are integrated in a document.
+You may explain a particular class component: i.e `BookingsComponent`[<sup id="2g5p19">↓</sup>](#f-2g5p19) (👈 click it!)
 
-You may explain a particular class component `BookingsComponent`[<sup id="2g5p19">↓</sup>](#f-2g5p19) and you would explain where it is stored i.e part of the `📄 src/app/bookings` folder alongside the config service `bookingsFlag`[<sup id="Z50ObG">↓</sup>](#f-Z50ObG) .
+Or you may want to explain where it is stored (i.e `📄 src/app/bookings` )
 
+When the code changes - swimm will show it has changed (i.e `WishlistComponent`[<sup id="Z28UIXI">↓</sup>](#f-Z28UIXI))
 
+<br/>
 
+<!--BANNER-->
+::: INFO
+**Smart Text allows ☝️ a natural way to talk about code without worrying that:**
 
-**The text above ☝️ is a natural way to talk about code without worry that:**
-
-*   Any of the references will be **renamed**
+*   it will be **renamed**
     
-*   Any of the references will be **moved**
+*   **moved**
     
-*   Any of the references will be **deleted**
+*   **deleted**
+:::
 
 <br/>
 
@@ -35,9 +39,9 @@ You may explain a particular class component `BookingsComponent`[<sup id="2g5p19
 export class BookingsComponent implements OnInit {
 ```
 
-<span id="f-Z50ObG">bookingsFlag</span>[^](#Z50ObG) - "src/app/services/data-sharing.service.ts" L16
+<span id="f-Z28UIXI">WishlistComponent</span>[^](#Z28UIXI) - "src/app/wishlist/wishlist.component.ts" L10
 ```typescript
-  bookingsFlag: boolean = false;
+export class WishlistComponent implements OnInit {
 ```
 
 <br/>
