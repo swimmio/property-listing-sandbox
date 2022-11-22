@@ -2,10 +2,22 @@
 id: 3opzu
 name: ⚡︎ IDE Integrations
 file_version: 1.0.2
-app_version: 0.9.9-6
+app_version: 0.10.0-0
 ---
 
-jjj
+Documentation is useful if you can find it when you need it and where you need it the mose.
+
+For developers that means in the IDE.
+
+*   Read documentation when you code
+    
+*   Click on the sidebar - to open a doc
+    
+*   Click on embedded notations in the code - to open a doc
+
+<br/>
+
+<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBcHJvcGVydHktbGlzdGluZy1zYW5kYm94JTNBJTNBc3dpbW1pbw%3D%3D%2F9bb29bcf-2388-402b-b7a7-f3d0a239fcd3.png?alt=media&token=5ca8010c-7779-4e58-ad03-900fbf21da0d" style="width:'100%'"/></div>
 
 <br/>
 
